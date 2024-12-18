@@ -1,5 +1,5 @@
 {
-  "name": "employee-management-backend",
+  "name": "backend-crud",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,7 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "mysql2": "^3.10.1",
-    "sequelize": "^6.37.3"
+    "sequelize": "^6.37.3",
+    "sequelize-cli": "^6.6.2"
   }
 }
